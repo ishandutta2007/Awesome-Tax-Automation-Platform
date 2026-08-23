@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Avalara](https://www.avalara.com/)**  
-
-  Market-leading tax automation platform covering sales tax, VAT, GST, and excise across 190+ countries, with calculation, returns, exemption certificates, and extensive integrations.
-
-
-
-- **[Vertex](https://www.vertexinc.com/)**  
-
-  Enterprise-grade tax determination and compliance platform used by large organizations for complex global indirect tax scenarios and multi-entity environments.
-
-
-
-- **[Thomson Reuters ONESOURCE](https://www.thomsonreuters.com/)**  
-
-  Comprehensive tax technology suite spanning indirect tax, corporate income tax, transfer pricing, and provision, with strong content and workflow capabilities.
-
-
-
-- **[Sovos](https://sovos.com/)**  
-
-  Global tax compliance platform specializing in e-invoicing, indirect tax, information reporting, and regulatory obligations across many jurisdictions.
-
-
-
-- **[Anrok](https://www.anrok.com/)**  
-
-  Modern tax automation platform built for SaaS and subscription businesses, focusing on sales tax/VAT calculation and compliance for digital products.
-
-
-
-- **[Stripe Tax](https://stripe.com/tax)**  
-
-  Tax calculation and collection product tightly integrated with Stripe payments, supporting sales tax, VAT, and GST for online businesses.
-
-
-
-- **[TaxJar (Avalara)](https://www.taxjar.com/)**  
-
-  Popular sales-tax automation solution (now part of Avalara) known for real-time calculation, nexus monitoring, and automated filing, especially for ecommerce.
-
-
-
-- **[Blue dot](https://www.bluedotcorp.com/)**  
-
-  Tax automation and compliance solutions focused on indirect tax and related processes.
-
-
-
-- **[Corptax](https://www.corptax.com/)**  
-
-  Corporate tax software covering provision, compliance, and related tax processes for larger organizations.
-
-
-
-- **[Canopy](https://www.canopytax.com/)**  
-
-  Tax practice management and automation platform used by tax professionals and firms.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Avalara](https://www.avalara.com/)** | Market-leading tax automation platform covering sales tax, VAT, GST, and excise across 190+ countries, with calculation, returns, exemption certificates, and extensive integrations. | Starts at **$799/state/year** (Core Compliance, 3-state minimum = ~$2,397/yr); basic services starting at ~$119/license | **90-day free developer trial** (API/SDK testing capped at 1,000 transactions/day, 5 req/min, no credit card required; no free live filing tier) |
+| **[Vertex](https://www.vertexinc.com/)** | Enterprise-grade tax determination and compliance platform used by large organizations for complex global indirect tax scenarios and multi-entity environments. | Starts at **~$5,000/year** for SMB Cloud connectors; enterprise multi-entity deployments scale from $10,000–$100,000+/year | **No free-forever tier**; guided sandbox pilot/demo available upon enterprise sales request |
+| **[Thomson Reuters ONESOURCE](https://www.thomsonreuters.com/)** | Comprehensive tax technology suite spanning indirect tax, corporate income tax, transfer pricing, and provision, with strong content and workflow capabilities. | Starts at **~$10,000/year** (base modular packages for indirect/direct tax and reporting) | **No free-forever tier**; 30-day limited trial available for select modules upon sales evaluation |
+| **[Sovos](https://sovos.com/)** | Global tax compliance platform specializing in e-invoicing, indirect tax, information reporting, and regulatory obligations across many jurisdictions. | Starts at **~$3,000/year** (base indirect tax and 1099 reporting tiers) | **No free-forever tier**; 7-day sandbox trial on select modules/APIs upon sales consultation |
+| **[Anrok](https://www.anrok.com/)** | Modern tax automation platform built for SaaS and subscription businesses, focusing on sales tax/VAT calculation and compliance for digital products. | Starts at **$499/month** ($5,988/year billed annually) + 0.30%–0.40% per taxable transaction (Starter tier) | **No free-forever tier**; 7-day trial available via select marketplace/partner integrations |
+| **[Stripe Tax](https://stripe.com/tax)** | Tax calculation and collection product tightly integrated with Stripe payments, supporting sales tax, VAT, and GST for online businesses. | **0.5% per transaction** (no-code/Checkout) or **$0.50/transaction** (API); **0.4% per transaction** with Stripe Billing (no monthly minimums) | **Free-forever Test Mode** with unlimited sandbox calculations + 100% free automated economic nexus and threshold monitoring across all jurisdictions |
+| **[TaxJar (Avalara)](https://www.taxjar.com/)** | Popular sales-tax automation solution (now part of Avalara) known for real-time calculation, nexus monitoring, and automated filing, especially for ecommerce. | Starts at **$39/month** (Starter tier, up to 200 orders/month, 3 integrations, 2 AutoFile credits/yr); Professional from $99/month | **30-day free trial** (up to 200 orders, full access to integrations and nexus dashboard, no credit card required) |
+| **[Blue dot](https://www.bluedotcorp.com/)** | Tax automation and compliance solutions focused on AI-driven indirect tax, taxable employee benefits, and VAT recovery. | Starts at **~$15,000/year** (based on employee expense volume and ERP/SAP Concur connectors) | **No free-forever tier**; custom proof-of-concept (POC) sandbox trial upon enterprise sales evaluation |
+| **[Corptax](https://www.corptax.com/)** | Corporate tax software covering provision, compliance, and related tax processes for larger organizations. | Starts at **~$80,000/year** (average enterprise deployment for corporate tax provision & compliance modules) | **No free-forever tier**; guided sandbox demonstration and proof-of-concept on request via sales team |
+| **[Canopy](https://www.canopytax.com/)** | Tax practice management and automation platform used by tax professionals and accounting firms. | Starts at **$74/user/month** (Standard plan billed annually) / $109/user/month (Plus plan) | **Free-forever tier** for Client Management (up to 500 contacts, includes client portal & mobile app); **14-day free trial** for full practice management features |
 
 
 
